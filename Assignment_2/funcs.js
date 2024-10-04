@@ -7,23 +7,22 @@ export const printingText = (firstSentence =  "Hello", secondSentence =  "World!
 // Function that receives values for the speed value and origin unit (ms or kmh) then return the 
 // converted speed. If origin unit is ms then convert to kmh, if origin unit is kmh then convert to ms
 export const speedConverter = (speedValue = 60, originUnit = "kmh") => {
-    if ( originUnit ==  "kmh") {
+    if ( originUnit ===  "kmh") {
         return speedValue / 3.6
-    } else if (originUnit == "ms"){
+    } else if (originUnit === "ms"){
         return speedValue * 3.6
     } else {
-        return 0
+        throw new Error("Recieved wrong unit")
     }
     
 }
 
 
 
-// Function to double the value given as input
-export const double = (number = 2) => {
-    return number * 2
+// Function to multiply by given value from user
+export const multiplyBy = (number = 2, times = 1) => {
+    return number * times
 }
-
 
 // Function to check if the number given is a prime number
 const isPrime = (number = 2) => {
