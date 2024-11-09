@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Lorianna",
+  "last_name": "Kornel",
+  "email": "lkornel0@technorati.com",
+  "gender": "Female",
+  "ip_address": "33.41.70.210"
+}, {
+  "id": 2,
+  "first_name": "Morse",
+  "last_name": "Ferronet",
+  "email": "mferronet1@nih.gov",
+  "gender": "Polygender",
+  "ip_address": "250.235.51.246"
+}, {
+  "id": 3,
+  "first_name": "Meggy",
+  "last_name": "MacNally",
+  "email": "mmacnally2@wikimedia.org",
+  "gender": "Genderfluid",
+  "ip_address": "48.29.106.184"
+}, {
+  "id": 4,
+  "first_name": "Dudley",
+  "last_name": "Luetkemeyer",
+  "email": "dluetkemeyer3@unblog.fr",
+  "gender": "Male",
+  "ip_address": "187.42.69.141"
+}, {
+  "id": 5,
+  "first_name": "Jillane",
+  "last_name": "Holtum",
+  "email": "jholtum4@icio.us",
+  "gender": "Polygender",
+  "ip_address": "119.52.7.20"
+}, {
+  "id": 6,
+  "first_name": "Jan",
+  "last_name": "Alforde",
+  "email": "jalforde5@unicef.org",
+  "gender": "Male",
+  "ip_address": "36.33.71.67"
+}, {
+  "id": 7,
+  "first_name": "Shaine",
+  "last_name": "Warrack",
+  "email": "swarrack6@about.me",
+  "gender": "Female",
+  "ip_address": "246.51.179.12"
+}, {
+  "id": 8,
+  "first_name": "Dolf",
+  "last_name": "Chesterman",
+  "email": "dchesterman7@lycos.com",
+  "gender": "Male",
+  "ip_address": "171.123.121.87"
+}, {
+  "id": 9,
+  "first_name": "Ruprecht",
+  "last_name": "Ansett",
+  "email": "ransett8@washington.edu",
+  "gender": "Male",
+  "ip_address": "14.100.247.156"
+}, {
+  "id": 10,
+  "first_name": "Estel",
+  "last_name": "Scupham",
+  "email": "escupham9@reference.com",
+  "gender": "Female",
+  "ip_address": "114.45.60.116"
+}]
