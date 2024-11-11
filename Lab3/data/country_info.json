@@ -1,0 +1,53 @@
+{
+    "countries": [
+      {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "population": 38008005,
+        "area_km2": 9984670,
+        "currency": "Canadian Dollar",
+        "official_languages": ["English", "French"]
+      },
+      {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "population": 125960000,
+        "area_km2": 377975,
+        "currency": "Japanese Yen",
+        "official_languages": ["Japanese"]
+      },
+      {
+        "name": "Germany",
+        "capital": "Berlin",
+        "population": 83166711,
+        "area_km2": 357022,
+        "currency": "Euro",
+        "official_languages": ["German"]
+      },
+      {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 213993437,
+        "area_km2": 8515767,
+        "currency": "Brazilian Real",
+        "official_languages": ["Portuguese"]
+      },
+      {
+        "name": "Australia",
+        "capital": "Canberra",
+        "population": 25687041,
+        "area_km2": 7692024,
+        "currency": "Australian Dollar",
+        "official_languages": ["English"]
+      },
+      {
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1393409038,
+        "area_km2": 3287263,
+        "currency": "Indian Rupee",
+        "official_languages": ["Hindi", "English"]
+      }
+    ]
+  }
+  
